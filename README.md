@@ -52,3 +52,11 @@ A report on the analysis of results from this task can be found as "task3.md".
 
 ## Task 5
 
+This task requires us to provide instructions to someone who wishes to run the codes on a Windows machine. The instructions are as follows. 
+
+
+1. First, one should download and install a compiler. A possible choice is the VS Code, and a download link can be found [here](https://code.visualstudio.com/download). Detailed instructions on how to get the necessary extra bits for compiling C++ can be found [here](https://code.visualstudio.com/docs/languages/cpp).
+
+2. Download all the files in this repository to a suitable location, go to that location, and open the main.cpp (or main_2.cpp) files in the compiler to make the necessary adjustments.
+
+3. Open WindowsPowerShell, cd to the right directory, and execute as instructed above under Tasks 2 and 3. 
