@@ -1,0 +1,1 @@
+int IS_STABLE(std::map<char, std::string>& pref_M, std::map<char,std::string>& pref_F, std::map<char, char>& match);

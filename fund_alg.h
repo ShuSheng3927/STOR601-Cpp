@@ -1,0 +1,1 @@
+std::map<char,char> FUND_ALG(std::map<char, std::string>& pref_M, std::map<char,std::string>& pref_F);
